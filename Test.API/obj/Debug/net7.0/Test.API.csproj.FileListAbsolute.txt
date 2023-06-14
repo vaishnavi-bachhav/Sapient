@@ -1,0 +1,70 @@
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\appsettings.json
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.exe
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.deps.json
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.runtimeconfig.json
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.pdb
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.csproj.AssemblyReference.cache
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.AssemblyInfoInputs.cache
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.AssemblyInfo.cs
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.csproj.CoreCompileInputs.cache
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.Test.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Test.API.props
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Test.API.props
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Test.API.props
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\scopedcss\bundle\Test.API.styles.css
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.csproj.CopyComplete
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.dll
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\refint\Test.API.dll
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.pdb
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\Test.API.genruntimeconfig.cache
+C:\Users\vbachhav\Test.API\obj\Debug\net7.0\ref\Test.API.dll
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Test.API.staticwebassets.runtime.json
+C:\Users\vbachhav\Test.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\appsettings.json
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.staticwebassets.runtime.json
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.exe
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.deps.json
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.runtimeconfig.json
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Test.API.pdb
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Explore development\Jobs\Sapient\Test.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.csproj.AssemblyReference.cache
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.AssemblyInfoInputs.cache
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.AssemblyInfo.cs
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.csproj.CoreCompileInputs.cache
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.Test.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Test.API.props
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Test.API.props
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Test.API.props
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\scopedcss\bundle\Test.API.styles.css
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.csproj.CopyComplete
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.dll
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\refint\Test.API.dll
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.pdb
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\Test.API.genruntimeconfig.cache
+D:\Explore development\Jobs\Sapient\Test.API\obj\Debug\net7.0\ref\Test.API.dll

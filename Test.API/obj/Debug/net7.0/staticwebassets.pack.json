@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Explore development\\Jobs\\Sapient\\Test.API\\wwwroot\\db.json",
+      "PackagePath": "staticwebassets\\db.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Test.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Test.API.props",
+      "PackagePath": "build\\Test.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Test.API.props",
+      "PackagePath": "buildMultiTargeting\\Test.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Test.API.props",
+      "PackagePath": "buildTransitive\\Test.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5kjL42KKtiq4PAaeDYsofwO5CPN5unG8P9z9zHzMhow=",
+  "Source": "Test.API",
+  "BasePath": "_content/Test.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Test.API\\wwwroot",
+      "Source": "Test.API",
+      "ContentRoot": "D:\\Explore development\\Jobs\\Sapient\\Test.API\\wwwroot\\",
+      "BasePath": "_content/Test.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Explore development\\Jobs\\Sapient\\Test.API\\wwwroot\\db.json",
+      "SourceId": "Test.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Explore development\\Jobs\\Sapient\\Test.API\\wwwroot\\",
+      "BasePath": "_content/Test.API",
+      "RelativePath": "db.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\db.json"
+    }
+  ]
+}

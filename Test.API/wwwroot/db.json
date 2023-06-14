@@ -1,0 +1,29 @@
+[
+  {
+    "MedicineId": 1,
+    "FullName": "#f00",
+    "Notes": "",
+    "ExpiryDate": "2023-05-14T00:00:00",
+    "Quantity": 1,
+    "Price": 12.45,
+    "Brand": "Test"
+  },
+  {
+    "MedicineId": 2,
+    "FullName": "string",
+    "Notes": "string",
+    "ExpiryDate": "2023-08-14T00:00:00",
+    "Quantity": 0,
+    "Price": 0.0,
+    "Brand": "string"
+  },
+  {
+    "MedicineId": 3,
+    "FullName": "kanu",
+    "Notes": "kanu",
+    "ExpiryDate": "2023-06-14T14:58:30.049Z",
+    "Quantity": 12,
+    "Price": 12.0,
+    "Brand": "Test"
+  }
+]
